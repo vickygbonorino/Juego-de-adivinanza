@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    
+  }
+  
+  h1 {
+    color: #4CAF50;
+    font-family:'Agbalumo';
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    border-radius: 10%;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10%;
+  }
+  
+  #mensaje {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
